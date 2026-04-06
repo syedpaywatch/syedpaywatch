@@ -54,7 +54,7 @@ Salam!, Hey! I'm Syed Mohamad Arif, a Mobile Developer with 4.5 years of experie
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=syedpaywatch&theme=tokyonight&hide_border=true&ring=a855f7&fire=06b6d4&currStreakLabel=a855f7)](https://git.io/streak-stats)
 
-> 💼 Work account: [github.com/syedpaywatch](https://github.com/syedmhdarif)
+> 💼 Work account: [github.com/syedmhdarif](https://github.com/syedmhdarif)
 
 </div>
 
